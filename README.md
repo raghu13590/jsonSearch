@@ -18,11 +18,11 @@ user can search by first level key and value combination
  - 	clone the application
  - 	navigate to the folder
  -  make sure you have installed gradle already
- - 	type <gradle clean build> to build the app
- - 	type <./gradlew test> to run tests
+ - 	type "gradle clean build" to build the app
+ - 	type "./gradlew test" to run tests
  - 	to run the app from terminal
  - 	navigate to zendeskChallenge\zendeskSearch\src\main\java\com\zendesk\search
- - 	type <java SearchApplication>
+ - 	type "java SearchApplication"
 	
 ##### instructions
 - 	as the application starts, it shows list of files to search from with a number next to it
@@ -33,4 +33,4 @@ user can search by first level key and value combination
 - 	if any match were to be found, the app would display them
 - 	if no match was found a message saying so would be printed
 - 	you can repeat the same exercise with a different file
-- 	to exit the app type quit
+- 	to exit the app type "quit"
