@@ -32,6 +32,5 @@ user can search by first level key and value combination
 - 	next type in the value that should match with the key
 - 	if any match were to be found, the app would display them
 - 	if no match was found a message saying so would be printed
-- 	
 - 	you can repeat the same exercise with a different file
 - 	to exit the app type quit
