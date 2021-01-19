@@ -1,4 +1,4 @@
-# zendeskSearch
+# Json Search
 application to search in json files
 user can search by first level key and value combination
 
