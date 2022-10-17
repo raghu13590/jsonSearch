@@ -10,8 +10,14 @@ user can search by first level key and value combination
  #####  if you have an IDE with gradle plugin
  - clone the application into your local machine- 
  - import the project from the IDE as a gradle project
- - build the project with the gradle plugin
- - run test classes in src/test/java if your IDE has JUnit plugin
+ - build the project
+ ```
+ ./gradlew build
+ ```
+ - run test classes in src/test/java
+ ```
+ ./gradlew test
+ ```
  - run the main class SearchApplication.java
 
  ##### from command line
